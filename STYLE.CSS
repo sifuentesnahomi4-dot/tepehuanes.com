@@ -1,0 +1,8 @@
+body{
+    font-size: 35px;
+    background-image: url(IMAGEN\ fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
